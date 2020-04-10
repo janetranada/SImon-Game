@@ -13,13 +13,17 @@ This is a one-player memory game.
 Sample:
 
 Simon signal 1: red
+
 Correct Pattern: red
 
 Simon signal 2: green
+
 Correct Pattern: red, green
 
 Simon signal 3: green
+
 Correct Pattern: red, green, green
 
 Simon signal 4: yellow
+
 Correct Pattern: red, green, green, yellow
