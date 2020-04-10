@@ -11,6 +11,7 @@ This is a one-player memory game.
 
 
 Sample:
+
 Simon signal 1: red
 Correct Pattern: red
 
