@@ -58,7 +58,7 @@ $('.btn').click(() => {
     checkAnswer(userClickedPattern.length - 1)
 })
 
-$(document).keypress(() => {
+$(document).on('keyup touchend', () => {
     if(!started) {
         nextSequence()
         started = true
